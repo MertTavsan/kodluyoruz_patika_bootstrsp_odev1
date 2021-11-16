@@ -1,0 +1,2 @@
+# kodluyoruz_patika_bootstrsp_odev1
+Önceki ödevi düzenleme
